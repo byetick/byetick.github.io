@@ -1,0 +1,13 @@
+			@font-face {
+				font-family: 'century-gothic-regul';
+				font-style: normal;
+				src: url('/wp-content/uploads/useanyfont/180126112435Century-Gothic-Regul.eot');
+				src: local('century-gothic-regul'), url('/wp-content/uploads/useanyfont/180126112435Century-Gothic-Regul.eot') format('embedded-opentype'), url('/wp-content/uploads/useanyfont/180126112435Century-Gothic-Regul.woff') format('woff');
+			}
+            
+            .century-gothic-regul{font-family: 'century-gothic-regul' !important;}
+            
+						h1, h2, h3, h4, h5, h6{
+					font-family: 'century-gothic-regul' !important;
+				}
+		
